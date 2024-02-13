@@ -1,0 +1,48 @@
+.all input {
+  border: 2px solid black;
+  filter: drop-shadow(1.2px 1.2px 1.2px black);
+
+  width: 15rem;
+}
+.all button {
+  /* box-shadow: 2px 4px 4px black; */
+  filter: drop-shadow(2px 4px 4px black);
+}
+.all2 div {
+  margin-bottom: 3rem;
+}
+.all2 button {
+  /* box-shadow: 2px 4px 4px black; */
+  filter: drop-shadow(2px 4px 4px black);
+}
+.all2 input {
+  border: 2px solid black;
+  filter: drop-shadow(1.2px 1.2px 1.2px black);
+
+  width: 15rem;
+}
+.allhome,
+.Update,
+.Delete {
+  background-color: aliceblue;
+}
+.paper {
+  filter: drop-shadow(9px 9px 8px black);
+}
+.buttonc {
+  filter: drop-shadow(4px 5px 5px black);
+}
+.deltitle {
+  font-size: 4rem;
+  font-weight: 800;
+}
+.updatetitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.active-link {
+  color: white;
+}
+.btnd {
+  background-color: cadetblue;
+}
